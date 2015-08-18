@@ -1,0 +1,15 @@
+*.sdf
+*.opensdf
+*.user
+*.obj
+*.tlog
+x64/
+Release/
+Debug/
+ReleaseRevision/
+ipch/
+*.suo
+Pixcen.aps
+upload.sh
+pixcen.zip
+pixcen64.zip
